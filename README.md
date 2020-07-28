@@ -10,9 +10,6 @@ Bla bla bla bla
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves.git/master?urlpath=%2Fapps%2FCurvas_de_Indiferencia.ipynb)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JNinoGarc/App.git/master?urlpath=%2Fapps%2Fexample_app.ipynb)
-
-
 ## Acknowledgements
 Our thanks mainly to Ole Schütt for sharing Appmode.
 Please check the original git for more information about Appmode.
