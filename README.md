@@ -7,7 +7,7 @@ Gráficas
 Bla bla bla bla
 ## Pruébalo dando click en el botón de abajo (Puede demorar un poco)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/App.git/Indifference-curves.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves.git/master?urlpath=%2Fapps%2FCurvas-de-indiferencia_Introducción-a-Teoría-racional-de-elección..ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves/56773229a1ab1a372271d4fab73729a5b5e59011)
 
