@@ -7,10 +7,7 @@ Gráficas
 Bla bla bla bla
 ## Pruébalo dando click en el botón de abajo (Puede demorar un poco)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves.git/master?urlpath=%2Fapps%2FCurvasdeindiferencia.ipynb)
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JNinoGarc/App.git/master?urlpath=%2Fapps%2Fexample_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves.git/master?urlpath=%2Fapps%2FCurvas_de_Indiferencia.ipynb)
 
 
 ## Acknowledgements
