@@ -19,34 +19,34 @@
     "\n",
     "<br>\n",
     "\n",
-    "Las curvas de indiferencias son curvas conformadas por un continuo de puntos que indican una combinación específica entre dos bienes que proporcionan el mismo valor de utilidad, a cierto agente económico, respecto a las demás combinaciones que se encuentran dentro de la misma curva. De la misma forma, para determinar los valores de utilidad se asigna de forma jerárquica un valor a cada posible opción, yendo del valor más bajo para la opción menos preferida, hasta el valor más alto para la opción más preferida (The core team, 2020). Dado lo anterior la función de utilidad de dos bienes se representa de la siguiente forma: \n",
+    "Las curvas de indiferencias son curvas conformadas por un continuo de puntos que indican una combinación específica entre dos bienes que proporcionan el mismo valor de utilidad, a cierto agente económico, respecto a las demás combinaciones que se encuentran dentro de la misma curva. De la misma forma, para determinar los valores de utilidad, se asigna de forma jerárquica un valor a cada posible opción, yendo del valor más bajo para la opción menos preferida hasta el valor más alto para la opción más preferida (The core team, 2020). Dado lo anterior, la función de utilidad de dos bienes se representa de la siguiente forma: \n",
     "\n",
     "$$U(A, B)$$\n",
     "\n",
-    "Para que esta función pueda representar curvas de indiferencia, un requisito necesario es que la función de utilidad de A y B se iguale a una constante (c).\n",
+    "Para que esta función pueda representarse en curvas de indiferencia, un requisito necesario es que la función de utilidad de A y B se iguale a una constante (c).\n",
     "                 \n",
     "$$U(A, B) = c$$\n",
     "                 \n",
-    "Preferencias es uno de los constructos más importantes en la visión estándar de la Teoría de elección racional, ya que este marco explica la toma de decisiones de los agentes económicos a partir de un proceso en el que 1) se evalúan las opciones posibles y 2) se elige la opción más preferida de acuerdo a una regla de elección consistente. En otras palabras, la teoría asume que los individuos tienen preferencias y eligen de acuerdo ellas. No obstante, se reconoce que en un inicio nosotros sólo podemos aprender sobre la regla de elección que determine las preferencias de un agente, mediante la observación de su acción/elección (Levin & Milgrom, 2004). Esta idea es la base de lo que en teoría económica se conoce como “preferencias reveladas”.\n",
+    "Preferencias es uno de los constructos más importantes en la visión estándar de Teoría de elección racional, ya que este marco explica la toma de decisiones de los agentes económicos a partir de un proceso en el que 1) se evalúan las opciones posibles y 2) se elige la opción más preferida de acuerdo a una regla de elección consistente. En otras palabras, la teoría asume que los individuos tienen preferencias y eligen de acuerdo a ellas. No obstante, se reconoce que en un inicio nosotros sólo podemos aprender sobre la regla de elección que determine las preferencias de un agente mediante la observación de su acción/elección (Levin & Milgrom, 2004). Esta idea es la base de lo que en teoría económica se conoce como “preferencias reveladas”.\n",
     "\n",
-    "Desde esta perspectiva, se supone fundamentalmente que las preferencias son completas y transitivas. Lo cual refiere a que si un agente se enfrenta a una situación en la que debe elegir entre dos bienes A y B, el agente necesariamente podrá tener una opinión sobre su preferencia: podrá preferir A, podrá preferir B o incluso podrá ser indiferente frente a los bienes A y B, pero nunca se encontrará completamente desinformado sobre su preferencia (completitud) y que si el agente dice preferir a A sobre B y a B sobre C, entonces forzosamente preferirá a A sobre C; lo cual a su vez implica que el agente sólo alternará sobre su preferencia respecto a las opciones que le sean indiferentes (transitividad)(Levin & Milgrom, 2004).\n",
+    "Desde esta perspectiva, se supone fundamentalmente que las preferencias son completas y transitivas. Lo cual refiere a que si un agente se enfrenta a una situación en la que debe elegir entre dos bienes A y B, el agente necesariamente podrá tener una opinión sobre su preferencia: podrá preferir A, podrá preferir B o incluso podrá ser indiferente frente a los bienes A y B, pero nunca se encontrará completamente desinformado sobre su preferencia (completitud) y que si el agente dice preferir a A sobre B y a B sobre C, entonces deberá preferir a A sobre C, lo cual a su vez implica que el agente sólo alternará entre opciones sobre las que sus preferencias sean indiferentes, para ser racional en su elección (transitividad)(Levin & Milgrom, 2004).\n",
     "\n",
     "De esta forma, entendemos que las preferencias de los agentes pueden encontrarse en diferentes estados. Retomando los bienes A y B, se dice que:\n",
     "\n",
     "\n",
-    "- Para que A sea estrictamente preferido sobre B (A>B): A debe se al menos tan bueno como B (A>=B), pero B no debe ser al menos tan bueno como A (B>=A).\n",
+    "- Para que A sea estrictamente preferido sobre B (A>B): A debe ser al menos tan bueno como B (A>=B), pero no (B>=A) B debe ser al menos tan bueno como A .\n",
     "\n",
     "- Para que A sea débilmente preferido sobre B: A debe ser al menos tan bueno como B (A>=B).\n",
     "\n",
-    "- Para que el agente sea indiferente entre A y B (A~B): A debe ser al menos tan bueno como B (A>=B) y B debe se al menos tan bueno como A (B>=A).\n",
+    "- Para que el agente sea indiferente entre A y B (A~B): A debe ser al menos tan bueno como B (A>=B) y B debe ser al menos tan bueno como A (B>=A).\n",
     "\n",
     "\n",
-    "Ahora bien, la característica de las curvas de indiferencia que nos mostrará el estado de las preferencias de los agentes es la inclinación de su curva, la cual estará dada por la función de la tasa marginal de sustitución (TMS). Lo que representa la tasa marginal de sustitución es la disposición de un agente de tener una unidad menos del bien A por una unidad más del bien B o viceversa (The core team, 2020). \n",
+    "Ahora bien, la característica de las curvas de indiferencia que nos mostrará el estado de las preferencias de los agentes, es la inclinación de su curva, la cual estará dada por la función de la tasa marginal de sustitución (TMS). Lo que representa la tasa marginal de sustitución es la disposición de un agente de tener una unidad menos del bien A por una unidad más del bien B o viceversa (The core team, 2020). \n",
     "\n",
     "    \n",
     "$$TMS = \\frac{UtilidadMarginalA}{UtilidadMarginalB}$$\n",
     "\n",
-    "Cuando la utilidad marginal de A es igual a la utilidad marginal de B al evaluar la TMS se entiende que el agente económico está maximizando la utilidad entre los bienes A-B (Goolsbee, Levitt & Syverson, 2020).\n"
+    "Cuando la utilidad marginal de A es igual a la utilidad marginal de B al evaluar la TMS, se entiende que el agente económico está maximizando la utilidad entre los bienes A-B (Goolsbee, Levitt & Syverson, 2020).\n"
    ]
   },
   {
@@ -55,13 +55,16 @@
    "source": [
     "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
     "                 \n",
-    "En la siguiente sección encontrarás un simulador de una curva de indiferencia. Juega con los valores y presta atención a cómo cambia la curva cuando mueves los valores del bien B respecto al bien A y cómo se modifica la curva cuando cambias los valores de la tasa marginal de sustitución (TMS).\n",
-    "\n"
+    "En la siguiente sección encontrarás un simulador de una curva de indiferencia. Inicialmente se simulará una condición en la que las preferencias de un agente económico se encuentran en un estado indiferente frente a los bienes A y B. Para graficar dicha condición, se estableció un valor de 0.5 para definir la tasa marginal de sustitución (TMS), lo cual se interpretará como que ambos bienes son igualmente sustituibles. Por otro lado, lo que podrás modificar con la barra de Cantidad_B, serán los bienes B respecto a los cuales se graficarán las cantidades de bienes A que le serán indiferentes intercambiar al agente por 8 bienes B, cuando la TMS es de 0.5. Ambas cantidades son cantidades iniciales predeterminadas, sin ningún criterio específico, que podrás modificar. \n",
+    "\n",
+    "<br>\n",
+    "\n",
+    "Juega con los valores y presta atención a cómo cambia la curva de indiferencia cuando mueves los valores del bien B respecto a los valores del bien A y cómo se modifica la curva de indiferencia cuando cambias los valores de la tasa marginal de sustitución (TMS).\n"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 40,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -74,7 +77,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 41,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -96,8 +99,10 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
-   "metadata": {},
+   "execution_count": 43,
+   "metadata": {
+    "scrolled": true
+   },
    "outputs": [],
    "source": [
     "alpha = 0.5\n",
@@ -107,16 +112,16 @@
     "pmin, pmax = 2, 20\n",
     "BCmin, BCmax = 0, 60\n",
     "mrsmin, mrsmax = 1, 15\n",
-    "B = 5"
+    "B = 8"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 44,
    "metadata": {},
    "outputs": [],
    "source": [
-    "def IndifferenceCurves(Cantidad_B = B, TMS = alpha):\n",
+    "def IndifferenceCurves(TMS = alpha, Cantidad_B = B):\n",
     "    \n",
     "    A = np.linspace(0.09, 20, num=100) #Rango curvas de indiferencia\n",
     "    curves = B_indifference(A, Cantidad_B, TMS)\n",
@@ -133,18 +138,18 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 45,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "29e9adc3b9f341b8a4d5689ebc03913b",
+       "model_id": "7b97786205f543848e0275d7bd6441b0",
        "version_major": 2,
        "version_minor": 0
       },
       "text/plain": [
-       "interactive(children=(IntSlider(value=5, description='Cantidad_B', max=15, min=1), FloatSlider(value=0.5, desc…"
+       "interactive(children=(FloatSlider(value=0.5, description='TMS', max=0.99, step=0.01), IntSlider(value=8, descr…"
       ]
      },
      "metadata": {},
@@ -152,7 +157,7 @@
     }
    ],
    "source": [
-    "interact(IndifferenceCurves, TMS =(alphamin,alphamax,0.01),  Cantidad_B = (mrsmin, mrsmax,1));#me está dando el doble"
+    "interact(IndifferenceCurves, Cantidad_B = (mrsmin, mrsmax,1), TMS =(alphamin,alphamax,0.01));#me está dando el doble"
    ]
   },
   {
@@ -168,14 +173,21 @@
    "source": [
     "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
     "\n",
-    "La teoría de elección racional asume que los agentes siempre buscarán maximizar su utilidad y nunca se sentirán completamente saciados; sin embargo, reconoce que los agentes se encuentran en una situación de escazes, ya que los recursos que poseen y los que pueden adquirir siempre son limitados. Dicho de otra manera, a pesar de que se busque maximizar en todo momento, no todas las combinaciones posibles serán accesibles, dado nuestro ingreso o restricción presupuestaria. Dado lo anterior, en la investigación económica se ha establecido una necesidad por modelar las restricciones a las que se enfrentan los agentes económicos en su toma de decisiones; no obstante, siempre se procura que estas restricciones sean las mínimas para poder aplicar dichas restricciones a cualquier conjunto de datos disponibles. \n",
-    "                 \n",
+    "La teoría de elección racional asume que los agentes siempre buscarán maximizar su utilidad y nunca se sentirán completamente saciados; sin embargo, reconoce que los agentes se encuentran en una situación de escazes, ya que los recursos que poseen y los que pueden adquirir siempre son limitados. Dicho de otra manera, a pesar de que se busque maximizar en todo momento, no todas las combinaciones posibles serán accesibles, dado nuestro ingreso o restricción presupuestaria. Dicha afirmación se representa a través de la función:\n",
+    "\n",
     "<br>\n",
+    "\n",
+    "$$PrecioA + CantidadA * PrecioB + CantidadB <= Restricción presupuestaria$$  \n",
+    "\n",
+    "En la investigación económica se ha establecido una necesidad por modelar las restricciones a las que se enfrentan los agentes económicos en su toma de decisiones; no obstante, siempre se procura que estas restricciones sean las mínimas para poder aplicar dichas restricciones a cualquier conjunto de datos disponibles. \n",
+    "\n",
     "    \n",
-    "De la misma forma, desde la teoría del consumidor, se han determiando ciertas restricciones respecto a las preferencias de los agentes. Estas son: la monotonicidad, la no saciedad local, la separabilidad, la convexidad de las preferencias y el no efecto de la riqueza (Levin & Milgrom, 2004). En términos muy generales, estas restricciones hacen referencia a: \n",
+    "De la misma forma, desde la teoría del consumidor, se han determinado ciertas restricciones respecto a las preferencias de los agentes. Estas son: la monotonicidad, la no saciedad local, la separabilidad, la convexidad de las preferencias y el no efecto de la riqueza (Levin & Milgrom, 2004). En términos muy generales, estas restricciones hacen referencia a: \n",
     "\n",
     "<br>\n",
     "\n",
+    "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
+    "    \n",
     "    1) Monotonicidad: más de un bien, siempre será mejor. \n",
     "\n",
     "    2) No saciedad local: hay configuraciones de bienes en las que, dada la restricción presupuestaria, siempre un pequeño cambio en la configuración ubicará al agente en una mejor condición.\n",
@@ -193,10 +205,12 @@
    "source": [
     "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
     "\n",
-    "Posterior a haber revisado los tipos de restricciones a las que se enfrentan tanto los analistas como los agentes económicos, a continuación encontrarás un simulador que te permitirá visualizar de forma gráfica el espacio plausible de elección, cuando:\n",
+    "Posterior a haber revisado los tipos de restricciones a los que los agentes económicos se enfrentan y los supuestos que los teóricos asumen, a continuación encontrarás un simulador que te permitirá visualizar de forma gráfica el espacio plausible de elección, cuando:\n",
     "\n",
-    "        1) El bien A tiene un Precio1\n",
-    "        2) El bien B tiene un Precio2 \n",
+    "        1) El bien A tiene un Precio1.\n",
+    "\n",
+    "        2) El bien B tiene un Precio2. \n",
+    "\n",
     "        3) El agente tiene disponible una Restricción presupuestaria (RestPresu) que puede invertir por completo en combinaciones de bienes A-B.\n",
     "\n",
     "Define tus valores y observa la gráfica.\n",
@@ -205,7 +219,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 46,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -225,13 +239,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 47,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "c4ddcdadd4ed4211922913b501b00f23",
+       "model_id": "7020faa580c6474a9b2cc84328116c6a",
        "version_major": 2,
        "version_minor": 0
       },
@@ -241,10 +255,21 @@
      },
      "metadata": {},
      "output_type": "display_data"
+    },
+    {
+     "data": {
+      "text/plain": [
+       "<function __main__.Constraint(Precio1=10, Precio2=10, RestPresu=30)>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
     }
    ],
    "source": [
-    "interact_manual(Constraint, Precio1=(pmin,pmax,1), Precio2=(pmin,pmax,1), RestPresu=(BCmin,BCmax,1), i=FloatSlider(min=1e5, max=1e7, step=1e5));"
+    "Button = interact_manual(Constraint, Precio1=(pmin,pmax,1), Precio2=(pmin,pmax,1), RestPresu=(BCmin,BCmax,1), i=FloatSlider(min=1e5, max=1e7, step=1e5));\n",
+    "Button.widget.children[3].description = '¡Prueba!'\n",
+    "display(Button)"
    ]
   },
   {
@@ -268,7 +293,8 @@
     "\n",
     "De esta forma,\n",
     "\n",
-    "        Optimizar = Maximización de utilidad + restricciones.\n",
+    "    \n",
+    "$$Optimizar = Maximización de utilidad + restricciones.$$\n",
     "        "
    ]
   },
@@ -293,7 +319,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 48,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -320,13 +346,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 49,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "b8a69205a02440ae9f3cf609d2f4a142",
+       "model_id": "2ffe53f744004994a7455b6b30071c3d",
        "version_major": 2,
        "version_minor": 0
       },
@@ -355,9 +381,9 @@
    "source": [
     "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
     "\n",
-    "* Acemoglu D., Laibson D.& List J. (2020) *Microeconomics*, Global Edition\n",
-    "* Gloosbee A., Levitt S. & Syverson C. (2020) *Microeconomics*, 3rd Edition\n",
-    "* Levin & Milgrom (2004) *Introduction to Choice Theory*\n",
+    "* Acemoglu D., Laibson D.& List J. (2020) *Microeconomics*, Global Edition.\n",
+    "* Goolsbee A., Levitt S. & Syverson C. (2020) *Microeconomics*, 3rd Edition.\n",
+    "* Levin & Milgrom (2004) *Introduction to Choice Theory*.\n",
     "* The core team (2020) *The Economy*, Obtenido de: https://www.core-econ.org/the-economy/index.html.\n",
     "\n"
    ]
@@ -366,9 +392,32 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+    "### AGRADECIMIENTO:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
     "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
     "\n",
-    "Figueroa Muñoz Kathya Michelle."
+    "Agradecemos a Ole Schütt por compartirnos la Appmode que permitió que este simulador fuera realizado. https://github.com/oschuett/appmode"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### AUTOR:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<blockquote><div style=\"font-style: normal; font-family: Georgia;\"\n",
+    "\n",
+    "Figueroa Muñoz Kathya Michelle.\n"
    ]
   }
  ],
