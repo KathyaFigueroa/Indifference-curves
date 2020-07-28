@@ -6,7 +6,7 @@ Laboratorio 25, Dr. Arturo Bouzas.
 
 El botón del siguiente apartado, te permitirá acceder a un simulador interactivo que te introducirá de forma sencilla a algunos conceptos importantes de Teoría racional de elección, como: preferencias, curvas de indiferencia, utilidad, tasa marginal de sustitución, maximización de utilidad, restricción presupuestaria, restricciones axiomáticas y optimización.
 
-![Screenshot][./Screenshot.svg]
+![Screenshot.svg][./Screenshot.svg]
 
 ## Ingresa al simulador dando click en el botón de abajo.
 
