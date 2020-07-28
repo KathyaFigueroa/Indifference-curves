@@ -6,9 +6,9 @@ Laboratorio 25, Dr. Arturo Bouzas.
 
 El botón del siguiente apartado, te permitirá acceder a un simulador interactivo que te introducirá de forma sencilla a algunos conceptos importantes de Teoría racional de elección, como: preferencias, curvas de indiferencia, utilidad, tasa marginal de sustitución, maximización de utilidad, restricción presupuestaria, restricciones axiomáticas y optimización.
 
-![Screenshot.svg][./Screenshot.svg]
+![screenshots][./Screenshot.svg]
 
-## Ingresa al simulador dando click en el botón de abajo.
+## Ingresa al simulador dando click en el botón azul "Binder" que se encuentra a continuación.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KathyaFigueroa/Indifference-curves.git/master?urlpath=%2Fapps%2FCurvas_de_Indiferencia.ipynb)
 
